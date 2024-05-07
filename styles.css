@@ -1,0 +1,38 @@
+/* global styles */
+body {
+    color: #82a5ca;
+    margin: 0;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+}
+
+/* logo */
+#logo {
+    width: 150px;
+}
+
+/* buttons */
+.btn {
+    padding: 6px 12px;
+    background-color: white;
+    border: none;
+    color: #82a5ca;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 800;
+}
+
+/* cta */
+.underline {
+    border-bottom: 4px solid white;
+}
+
+.hero {
+    background-image: url("images/galaxy.gif");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+.hero h1 {
+    text-shadow: 0 0 4px black;
+}
+
