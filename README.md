@@ -29,7 +29,7 @@ Embark on an exciting journey to explore the mysteries of the universe. From dis
 
 ## Live Demo
 
-Experience the excitement of space exploration in our live demo: [View Live Demo](https://space-exploration-demo.com)
+Experience the excitement of space exploration in our live demo: [View Live Demo](https://space-exploration-site-omega.vercel.app/)
 
 ## Contributing
 
